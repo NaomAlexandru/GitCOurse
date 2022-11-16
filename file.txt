@@ -1,1 +1,2 @@
-:Change in file.
+new changes in file.txt
+
