@@ -1,3 +1,2 @@
 new changes in file.txt
-Adding new changes.
 
